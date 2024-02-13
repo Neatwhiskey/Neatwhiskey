@@ -14,9 +14,9 @@
 
 ### 👨‍💻_technologist: About Me :
 I am a native iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m looking forward to getting internships and junior developer roles that allows me to showcase my present skills, gain hand on knowledge and experience in the developer ecosysytem and helps push my career forward.
 
 
 
-- :zap: In my free time, I read tech articles.
+- :zap: In my free time, I love to read fiction and non-fiction books, watch movies and animes.
 
